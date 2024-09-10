@@ -55,7 +55,7 @@ The platform is built for scalability and efficiency, with a focus on clean UI/U
 - 🔄 Contributing to open-source data analytics projects
 
 ## 📫 Let’s Connect!
-- [LinkedIn](www.linkedin.com/in/johnclinton-v-7937232b4) 
+- [LinkedIn]www.linkedin.com/in/john-clinton-7937232b4 
 - 📧 Email: vjohnclinton@gmail.com
 
 ---
