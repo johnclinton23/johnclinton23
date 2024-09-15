@@ -16,7 +16,7 @@
 The Sign to Audio Conversion System for Hearing Impaired People is a Python-based application developed in PyCharm that translates sign language gestures into audible speech. This system uses image recognition and machine learning algorithms to interpret sign language and convert it into corresponding audio output, bridging the communication gap for hearing-impaired individuals. The project focuses on accessibility, real-time processing, and accuracy to enhance communication for users in various environments.
 
 
-
+![sign to audio conversion system](assets/images%20(3).jpg)
 ---
 
 ### 2. Student Management (CRUD)
