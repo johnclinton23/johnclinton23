@@ -30,6 +30,7 @@ Built with a focus on performance and data integrity, the platform ensures secur
 
 
 
+![Student Management (CRUD)](assets/jj.jpg)
 
 
 
@@ -47,6 +48,7 @@ The Business Management (E-Commerce Website) project is a full-featured online s
 It offers a secure checkout process, integrated payment gateway, and user account management for a personalized shopping experience. 
 The platform is built for scalability and efficiency, with a focus on clean UI/UX design and robust backend operations.
 
+![The Business Management E-commerce Website](assets/ecommerce-website-checklist-b-.webp)
 ---
 
 ## 🎯 What I’m Currently Focusing On:
