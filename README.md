@@ -30,7 +30,7 @@ Built with a focus on performance and data integrity, the platform ensures secur
 
 
 
-![Student Management (CRUD)](assets/jj.jpg)
+![Student Management (CRUD)](assets/jiii.png)
 
 
 
