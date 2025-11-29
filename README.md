@@ -1,13 +1,13 @@
 # 👋 Hello, I'm JOHNCLINTON !
 
-🚀 Aspiring *Python Developer* with expertise in * Python,HTML,CSS and ,PHP , and Power *, Django(beginner). 
+🚀 Aspiring *Python Developer* with expertise in * Python,HTML,CSS and ,Sql, Django. 
 
 ## 🔧 Technologies & Tools
 - 🐍 Python 
 - 🗄️ MySQL
 - 📊 HTML
 - 📈 CSS
-- 🔎 PHP
+- 🔎 Django
 
 ## 💼 Real-Time Projects
 
@@ -19,18 +19,15 @@ The Sign to Audio Conversion System for Hearing Impaired People is a Python-base
 ![sign to audio conversion system](assets/images%20(3).jpg)
 ---
 
-### 2. Student Management (CRUD)
+### 2.  Full-Stack Blog Publishing Platform
 
-
-The Student Management (CRUD) project is a web application designed to efficiently manage student data through Create, Read, Update, and Delete (CRUD) operations. 
-It features user-friendly interfaces for administrators to add, edit, and remove student records, as well as view detailed student information. 
-Built with a focus on performance and data integrity, the platform ensures secure and reliable student management for educational institutions.
+ Developed a Full-Stack Blog Publishing Platform using Django 5, MySQL, HTML, and CSS with a modular and scalable architecture. Implemented CRUD operations, dynamic URL routing, SEO-friendly slugs, pagination, and reusable templates for efficient content publishing. Designed responsive UI layouts using static files and partial templates. Built relational data models with migrations and integrated secure form handling for user interaction. Customized the Django admin interface to streamline content management and improve workflow efficiency
 
 
 
 
-
-![Student Management (CRUD)](assets/jiii.png)
+![ Full-Stack Blog Publishing Platform ](<img width="800" height="635" alt="full stack blog content" src="https://github.com/user-attachments/assets/820ca1a1-ef1f-4de9-80de-79f7eafa6724" />
+)
 
 
 
