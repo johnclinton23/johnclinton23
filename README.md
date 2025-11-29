@@ -26,7 +26,7 @@ The Sign to Audio Conversion System for Hearing Impaired People is a Python-base
 
 
 
-![ Full-Stack Blog Publishing Platform ](![blog](https://github.com/user-attachments/assets/bdac749c-bd5e-48e4-9e78-55f6ec65ee02))
+![ Full-Stack Blog Publishing Platform ](assets/bdac749c-bd5e-48e4-9e78-55f6ec65ee02.jpg)
 
 
 
