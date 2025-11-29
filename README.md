@@ -26,7 +26,7 @@ The Sign to Audio Conversion System for Hearing Impaired People is a Python-base
 
 
 
-![ Full-Stack Blog Publishing Platform ](<E:\pictures>)
+![ Full-Stack Blog Publishing Platform ](E:\pictures)
 
 
 
@@ -37,8 +37,6 @@ The Sign to Audio Conversion System for Hearing Impaired People is a Python-base
 
 
 Analyzed housing trends and pricing patterns in Melbourne, showcasing insights through advanced data visualization.
-
----
 
 The Business Management (E-Commerce Website) project is a full-featured online shopping platform that enables users to browse, search, and purchase products seamlessly.
 It offers a secure checkout process, integrated payment gateway, and user account management for a personalized shopping experience. 
